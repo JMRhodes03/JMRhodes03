@@ -42,8 +42,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/jessica-m-rhodes"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kohmei%20Kadoya-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:jmrhodes@wpi.edu"><img alt="Email" src="https://img.shields.io/badge/Email-kkadoya@wpi.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="www.linkedin.com/in/jessica-m-rhodes"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jessica%20Rhodes-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:jmrhodes@wpi.edu"><img alt="Email" src="https://img.shields.io/badge/Email-jmrhodes@wpi.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
