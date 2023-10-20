@@ -29,7 +29,7 @@
 - 🖥 &nbsp;
   ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
   ![FCPX](https://img.shields.io/badge/-Final%20Cut%20Pro%20X-333333?style=flat&logo=apple)
-  ![Solidworks](https://img.shields.io/badge/-So<h2> Hey there! I'm Kohmei Kadoya.</h2>
+
 
 <br/>
 
