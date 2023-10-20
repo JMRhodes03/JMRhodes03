@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Jessica M. Rhodes.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩🏾‍🦱 &nbsp;About Me </h3>
 
 - 🤖 &nbsp; A robotics engineer based in Worcester, MA.
 - 🎓 &nbsp; A student at [Worcester Polytechnic Institute](https://www.wpi.edu), pursuing a bachelors and a master in Robotics.
@@ -30,7 +30,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🫱🏽‍🫲🏾 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="www.linkedin.com/in/jessica-m-rhodes"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jessica%20Rhodes-blue?style=flat-square&logo=linkedin"></a>
