@@ -39,6 +39,3 @@
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
 lidworks-333333?style=flat)
-  ![PTC Creo](https://img.shields.io/badge/-PTC%20Creo-333333?style=flat)
-  ![Open CV](https://img.shields.io/badge/-Open%20CV-333333?style=flat)
-  ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat)
