@@ -1,12 +1,11 @@
-<h2> Hey there! I'm Jessica Rhodes.</h2>
+<h2> Hey there! I'm Jessica M. Rhodes.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; A robotics engineer based in Worcester, MA.
+- 🤖 &nbsp; A robotics engineer based in Worcester, MA.
 - 🎓 &nbsp; A student at [Worcester Polytechnic Institute](https://www.wpi.edu), pursuing a bachelors and a master in Robotics.
-- 🤗 &nbsp; I enjoy making robots more delightful to interact with. 
-- 🌱 &nbsp; Learning more about CAD, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and video production as hobbies.
+- 🌱 &nbsp; I enjoy making robots capable of bettering the earth. 
+- 👩🏾‍💻 &nbsp; Learning more about CAD, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -34,7 +33,7 @@
 
 <br/>
 
-<a href="https://github.com/Kohmei358">
+<a href="https://github.com/JMRhodes03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kohmei358&theme=buefy&show_icons=true&count_private=true" />
 </a>
 
@@ -43,9 +42,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.kohmeik.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kohmeik.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/kohmei-kadoya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kohmei%20Kadoya-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:kkadoya@wpi.edu"><img alt="Email" src="https://img.shields.io/badge/Email-kkadoya@wpi.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="www.linkedin.com/in/jessica-m-rhodes"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kohmei%20Kadoya-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:jmrhodes@wpi.edu"><img alt="Email" src="https://img.shields.io/badge/Email-kkadoya@wpi.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
