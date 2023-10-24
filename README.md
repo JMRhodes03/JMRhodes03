@@ -21,15 +21,15 @@
   ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ROS)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  
+<!--  
 <br/>
-<!--
+
 <a href="https://github.com/JMRhodes03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JMRhodes03&theme=buefy&show_icons=true&count_private=true" />
 </a>
--->
-<br/>
 
+<br/>
+-->
 <h3> 🫱🏽‍🫲🏾 &nbsp;Connect with Me </h3>
 
 <p align="center">
