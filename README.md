@@ -22,7 +22,7 @@
   ![SolidWorks](https://img.shields.io/badge/-SolidWorks-333333?style=flat&logo=dassaultsystemes)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-
+<!--
 <br/>
 
 <a href="https://github.com/JMRhodes03">
